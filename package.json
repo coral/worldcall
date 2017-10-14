@@ -1,0 +1,26 @@
+{
+  "name": "worldcall",
+  "version": "1.0.0",
+  "description": "code dump for twilio stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coral/worldcall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coral/worldcall/issues"
+  },
+  "homepage": "https://github.com/coral/worldcall#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonfile": "^4.0.0",
+    "lodash": "^4.17.4",
+    "twilio": "^3.8.1"
+  }
+}
